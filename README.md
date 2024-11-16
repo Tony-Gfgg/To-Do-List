@@ -1,8 +1,9 @@
 Simple To-Do List created in Python.
 
-There are currently six actions / functions:
+There are currently seven actions:
 
-View - Lists all items in the list.
+
+View - Shows all items in the list.
 
 Add - Adds an item to the list.
 
@@ -12,6 +13,9 @@ Edit - Changes an item to another value.
 
 Reset - Removes all items from the list.
 
-Settings - Allows you to change the listing type.
+Settings - Allows you to change settings like the list limit and listing type.
 
-If any issues occur, please let me know :)
+Info - Shows info about the list and current settings.
+
+
+If any issues occur, please let me know!
